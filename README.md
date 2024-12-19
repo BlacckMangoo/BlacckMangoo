@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning  java script and three.js
 - 💞️ I’m looking to collaborate on game jams
 - 📫 How to reach me 
+ https://www.instagram.com/satvikk_gupta_/
+
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
