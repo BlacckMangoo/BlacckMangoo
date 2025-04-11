@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BlacckMangoo
 - 👀 I’m interested in Game development , Three.js , shader development 
-- 🌱 I’m currently learning  java script and three.js
+- 🌱 I’m currently learning  webdev,webgpu
 - 💞️ I’m looking to collaborate on game jams
 - 📫 How to reach me 
  https://www.instagram.com/satvikk_gupta_/
