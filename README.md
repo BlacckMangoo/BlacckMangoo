@@ -2,4 +2,5 @@ I make Games
 and build stuff 
 I Love C++ , Graphics programming noob 
 
-<img width="474" height="525" alt="image" src="https://github.com/user-attachments/assets/6cddeb17-efb6-45d4-9993-88a52d060f96" />
+
+<img width="1000" height="900" alt="TJ2_ART_CURIOS_Utah-Teapot-Wireframe_480px" src="https://github.com/user-attachments/assets/3e05af4c-a56d-483c-bb8b-f9e448dad9d3" />
